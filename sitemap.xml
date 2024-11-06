@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- Homepage -->
+    <url>
+        <loc>https://vercel-blog-sigma-three.vercel.app/</loc>
+        <lastmod>2024-11-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Air Viral So Tinge Article -->
+    <url>
+        <loc>https://vercel-blog-sigma-three.vercel.app/air-viral</loc>
+        <lastmod>2024-11-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Tips Kuruskan Badan Article -->
+    <url>
+        <loc>https://vercel-blog-sigma-three.vercel.app/tips-kurus</loc>
+        <lastmod>2024-11-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Tempat Percutian Menarik di Malaysia Article -->
+    <url>
+        <loc>https://vercel-blog-sigma-three.vercel.app/tempat-percutian-menarik</loc>
+        <lastmod>2024-11-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>
